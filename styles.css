@@ -13,6 +13,7 @@ body {
     position: relative;
     display: grid;
     font-family: 'Nunito', sans-serif;
+    height:100vh;
 }
 
 .bg_div {
@@ -341,7 +342,7 @@ body {
 }
 
 h1 {
-    font-weight: bolder;
+    font-weight: 900;
     margin-bottom: 1.2rem;
     color: hsl(271, 36%, 24%);
 }
@@ -358,11 +359,11 @@ h1 {
     border-top-right-radius: 400px;
     position: absolute;
     right: -20rem;
-    top: 23rem;
+    top: 28rem;
     z-index: -9;
 }
 
-@media only screen and (min-width:60em) {
+@media only screen and (min-width:63.5em) {
     
     body{
         display:flex;
@@ -385,12 +386,12 @@ h1 {
     }
 
     .background_design {
-        width:32rem;
-        height: 29rem;
+        width:25rem;
+        height: 35rem;
         position: relative;
         position:absolute;
         right: -10rem;
-        top: 13rem;
+        top: 7rem;
         z-index: -9;
     }
 }
