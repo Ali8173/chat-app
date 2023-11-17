@@ -17,8 +17,8 @@ body {
 
 .bg_div {
     background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
-    max-width:27rem;
-    height:33rem;
+    max-width: 28rem;
+    height:35rem;
     border-bottom-right-radius:30rem;
     border-bottom-left-radius:30rem;
     position:relative;
@@ -30,7 +30,7 @@ body {
     height:30rem;
     background-color: white;
     position: absolute;
-    left: 13rem;
+    left: 16rem;
     top: 12%;
     border-radius: 1.3rem;
     box-shadow: 5px -5px 20px 15px rgb(24, 23, 23, 0.1);
